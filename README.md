@@ -8,10 +8,11 @@
       </div>
       <hr>
       <b>💻 Tech Stack</b><br>
-      <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/GROX-000000?style=flat-square&logoColor=white" /></a>
+<br><br>
       <b>🎮 Games & Connections</b><br>
       <a href="#"><img src="https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" /></a><br>
       <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" /></a><br>
