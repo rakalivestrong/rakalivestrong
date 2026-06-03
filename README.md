@@ -21,8 +21,8 @@
     <td width="65%" valign="top">
       <h3>🚀 Current Projects</h3>
       <ul>
-        <li>🏍️ <b>MANGAZEN</b> - Website untuk membaca manga</li>
-        <li>📚 <b>BEASISWAKU</b> - Website untuk pendaftaran beasiswa</li>
+        <li>📚 <b>MANGAZEN</b> - Website untuk membaca manga</li>
+        <li>🎓 <b>BEASISWAKU</b> - Website untuk pendaftaran beasiswa</li>
       </ul>
       <br>
       <br><br>
