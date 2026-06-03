@@ -1,6 +1,6 @@
 <!-- BANNER ATAS -->
 <div align="center">
-  <img src="https://i.imgur.com/9DckYFV.png" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
+  <img src="[https://i.imgur.com/9DckYFV.png](https://imgur.com/a/9DckYFV)" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@
     <td width="35%" valign="top">
       <div align="center">
         <!-- AVATAR -->
-        <img src="https://i.imgur.com/gZEKY5k.png" width="120" style="border-radius: 50%;" />
+        <img src="[https://i.imgur.com/gZEKY5k.png](https://imgur.com/a/gZEKY5k)" width="120" style="border-radius: 50%;" />
         
         <h2>ZenitH</h2>
         <p><i>Informatics Engineering • radiohead/laufey</i></p>
