@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/9DckYFV.png" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/user-attachments/assets/66b44dfb-e66a-4a22-8308-1d5d58b7a9d9" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
 </div>
 <br>
 <table border="0" width="100%">
@@ -7,7 +7,7 @@
     <td width="35%" valign="top">
       <div align="center">
         <img src="https://github.com/user-attachments/assets/ec1c3788-3171-4814-ade4-7971846f8b87" width="120" style="border-radius: 50%;" />
-        <h2>🎀 Jan Jen Jun</h2>
+        <h2>ZenitH</h2>
         <p><i>Informatics Engineering • radiohead/laufey</i></p>
       </div>
       <hr>
@@ -15,7 +15,6 @@
       <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
       <br><br>
       <b>🎮 Games & Connections</b><br>
       <a href="#"><img src="https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" /></a><br>
@@ -25,18 +24,14 @@
     <td width="65%" valign="top">
       <h3>🚀 Current Projects</h3>
       <ul>
-        <li>🏍️ <b>Motorin Yuk!</b> - Vehicle rental database system</li>
-        <li>📚 <b>Perpustakaan</b> - Library management database</li>
+        <li>🏍️ <b>MANGAZEN</b> - Website untuk membaca manga</li>
+        <li>📚 <b>BEASISWAKU</b> - Website untuk pendaftaran beasiswa</li>
       </ul>
       <br>
-      <h3>🎵 Current Activity</h3>
-      <a href="https://github.com/novatimo/github-readme-spotify">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatimo&bg_color=FADADD&font_color=333333" alt="Spotify Status" />
-      </a>
       <br><br>
       <h3>💬 In Voice</h3>
       <a href="https://github.com/Phineas/lanyard">
-        <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=FADADD&borderRadius=10px" alt="Discord Status" />
+        <img src="https://lanyard.cnrad.dev/api/952951288440705125?bg=FADADD&borderRadius=10px" alt="Discord Status" />
       </a>
     </td>
   </tr>
