@@ -9,9 +9,9 @@
       <hr>
       <b>💻 Tech Stack</b><br>
       <a href="#"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/chatGPT-412991?style=flat-square&logo=openai&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GROX-000000?style=flat-square&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/GROX_AI-000000?style=flat-square&logoColor=white" /></a>
 <br><br>
       <b>🎮 Games & Connections</b><br>
       <a href="#"><img src="https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" /></a><br>
