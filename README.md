@@ -24,11 +24,10 @@
         <li>📚 <b>MANGAZEN</b> - Website untuk membaca manga</li>
         <li>🎓 <b>BEASISWAKU</b> - Website untuk pendaftaran beasiswa</li>
       </ul>
-      <br><br>
       <h3>📱 Media Sosial Saya</h3>
-      <a href="LINK_INSTAGRAM_LO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-      <a href="LINK_TIKTOK_LO"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-      <a href="LINK_LINKEDIN_LO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.instagram.com/rakalivestronggg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+      <a href="https://www.tiktok.com/@zenith.hhhhh"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/alraka-putra-aa63b5389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
   </tr>
 </table>
