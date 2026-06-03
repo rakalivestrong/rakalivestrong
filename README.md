@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/66b44dfb-e66a-4a22-8308-1d5d58b7a9d9" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
-</div>
-<br>
 <table border="0" width="100%">
   <tr>
     <td width="35%" valign="top">
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/ec1c3788-3171-4814-ade4-7971846f8b87" width="120" style="border-radius: 50%;" />
+        <img src="https://github.com/user-attachments/assets/f8577264-e700-40ec-9ae3-30c0e77be0a2" width="120" style="border-radius: 50%;" />
         <h2>ZenitH</h2>
         <p><i>Informatics Engineering • radiohead/laufey</i></p>
       </div>
