@@ -1,6 +1,6 @@
 <!-- BANNER ATAS -->
 <div align="center">
-  <img src="[https://i.imgur.com/9DckYFV.png](https://imgur.com/a/9DckYFV)" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/user-attachments/assets/2619b7f5-ed94-4c90-a3f7-a948c9fb8df8" alt="Banner Profile" width="100%" style="border-radius: 15px;" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@
     <td width="35%" valign="top">
       <div align="center">
         <!-- AVATAR -->
-        <img src="[https://i.imgur.com/gZEKY5k.png](https://imgur.com/a/gZEKY5k)" width="120" style="border-radius: 50%;" />
+        <img src="https://github.com/user-attachments/assets/ec1c3788-3171-4814-ade4-7971846f8b87" width="120" style="border-radius: 50%;" />
         
         <h2>ZenitH</h2>
         <p><i>Informatics Engineering • radiohead/laufey</i></p>
