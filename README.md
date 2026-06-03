@@ -4,7 +4,7 @@
       <div align="center">
         <img src="https://github.com/user-attachments/assets/f8577264-e700-40ec-9ae3-30c0e77be0a2" width="120" style="border-radius: 50%;" />
         <h2>ZenitH</h2>
-        <p><i>Informatics Engineering • radiohead/laufey</i></p>
+        <p><i>Informatics Engineering   radiohead/laufey</i></p>
       </div>
       <hr>
       <b>💻 Tech Stack</b><br>
