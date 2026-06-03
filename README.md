@@ -26,10 +26,10 @@
       </ul>
       <br>
       <br><br>
-      <h3>💬 In Voice</h3>
-      <a href="https://github.com/Phineas/lanyard">
-        <img src="https://lanyard.cnrad.dev/api/952951288440705125?bg=FADADD&borderRadius=10px" alt="Discord Status" />
-      </a>
+      <h3>📱 Media Sosial Saya</h3>
+      <a href="https://www.instagram.com/rakalivestronggg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+      <a href="https://www.tiktok.com/@zenith.hhhhh"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/alraka-putra-aa63b5389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     </td>
   </tr>
 </table>
